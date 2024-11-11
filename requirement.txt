@@ -1,0 +1,7 @@
+tensorflow                 
+numpy==1.23.0                      
+matplotlib                
+seaborn                    
+scikit-learn              
+jupyter                   
+pillow 
